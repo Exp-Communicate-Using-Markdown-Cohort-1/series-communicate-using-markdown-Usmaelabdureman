@@ -21,4 +21,8 @@ for i in range(10):
     if i%2 == 0:
         print(i)
 ```
-
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] Start collaborating to others
+- [ ] ~~added by mistake~~
